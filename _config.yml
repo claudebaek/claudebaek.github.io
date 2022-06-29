@@ -1,17 +1,12 @@
-# Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Jay's Tech Blog
+url: 'https://getpoole.com'
 paginate: 1
-baseurl: ""
+baseurl: ''
 permalink: pretty
-
-# Gems
 plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
-
-# Optimize Jekyll
 exclude:
   - .editorconfig
   - .git
@@ -20,29 +15,16 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
-
 sass:
   sass_dir: _sass
-  style: :compressed
-
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
-
-# Specify the author for blog posts
+  style: ':compressed'
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
+  name: Jay
+  url: 'https://twitter.com/mdo'
   email: markdotto@gmail.com
-
-# Custom vars
 version: 3.0.0
-
-# Navbar page list
 nav:
   - title: Blog
     url: /archive
-
   - title: About
     url: /about
