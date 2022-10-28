@@ -1,6 +1,6 @@
 ---
 title: Introduction
-layout: post
+layout: page
 ---
 
 Mobile Software Engineer Jay's Tech Blog
