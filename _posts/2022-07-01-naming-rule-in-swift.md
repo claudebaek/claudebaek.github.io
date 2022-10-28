@@ -13,7 +13,5 @@ doWhat + something
 **protocol(interface)**
 
 
-
-https://dev.srdanstanic.com/swift-protocol-types-and-naming/
-
-https://www.swift.org/documentation/api-design-guidelines/
+[https://dev.srdanstanic.com/swift-protocol-types-and-naming/](https://dev.srdanstanic.com/swift-protocol-types-and-naming/)
+[https://dev.srdanstanic.com/swift-protocol-types-and-naming/](https://dev.srdanstanic.com/swift-protocol-types-and-naming/)
