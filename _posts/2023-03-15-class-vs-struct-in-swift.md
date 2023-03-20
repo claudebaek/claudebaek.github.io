@@ -167,7 +167,7 @@ override viewDidLoad() {
 | Memory     |  힙에 저장되고 레퍼런스 카운트로 개발자가 관리(느리다)  | 스택에 저장되고 컴파일러가 관리(빠르다)
 | 상속     |  가능 | 불가능
 | 타입 | 레퍼런스 타입: 인스턴스 생성시 레퍼런스로 메모리에 저장 | 밸류타입: 인스턴스 생성시 값 자체가 메모리에 저장
-|Mutability| let 으로 선언해도 내부 프로퍼티 변경가능 | let으로 선언해도 내부 프로퍼티 변경가능
+|Mutability| let 으로 선언해도 내부 프로퍼티 변경가능 | let으로 선언하면 내부 프로퍼티 변경불가
 | Initialization| designated initializer + optional initializers |  memberwise initializer 
 | Default initialization| 없음 | 있음
 |Copy-on-write| 사용안함 | 사용함
