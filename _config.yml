@@ -1,6 +1,6 @@
 title: Jay's Tech Blog
 url: 'https://claudebaek.github.io'
-paginate: 1
+paginate: '1'
 baseurl: ''
 permalink: pretty
 plugins:
@@ -20,11 +20,11 @@ sass:
   style: ':compressed'
 author:
   name: Jay
-  url: 'https://twitter.com/mdo'
-  email: markdotto@gmail.com
+  url: ''
+  email: ''
 version: 3.0.0
 nav:
   - title: Blog
     url: /archive
-  - title: Swift Lecture
+  - title: SwiftLecture
     url: /swift-lecture
