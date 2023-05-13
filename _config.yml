@@ -21,10 +21,17 @@ sass:
 author:
   name: Jay
   url: ''
-  email: ''
+  email: 'appleofeyes0321@gmail.com'
 version: 3.0.0
 nav:
   - title: Blog
     url: /archive
   - title: SwiftLecture
-    url: /swift-lecture
+    url: /tag/swift-lecture
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

@@ -1,5 +1,6 @@
 ---
 title: Swift Lecture
-layout: page
----
+permalink: /tags/swift_lecture/
+layout: tags
 
+---

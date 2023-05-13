@@ -1,9 +1,9 @@
 ---
+title: "4.4.4 Concept Note: Closures \n- 실행되는 코드뭉치"
 layout: post
 current: post
-title: "4.4.4 Concept Note: Closures \n- 실행되는 코드뭉치"
-tags: [swift_lecture]
-
+tags:
+- swift_lecture
 ---
 
 이번 챕터에서는 클로저에 대해 좀 더 깊게 공부해보려고 한다. 클로저는 입문자에게 혼란스러울수 밖에 없는 부분이므로 쉬운 코드부터 차근차근 이해해보도록 하자.
