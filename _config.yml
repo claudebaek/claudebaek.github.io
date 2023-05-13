@@ -27,7 +27,7 @@ nav:
   - title: Blog
     url: /archive
   - title: SwiftLecture
-    url: /tag/swift-lecture
+    url: /swift-lecture
 
 category_archive:
   type: liquid
