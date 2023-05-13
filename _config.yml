@@ -24,10 +24,14 @@ author:
   email: 'appleofeyes0321@gmail.com'
 version: 3.0.0
 nav:
-  - title: Blog
-    url: /archive
+  - title: CS 
+    url: /category/cs
+  - title: SwiftTech
+    url: /category/swift_tech
   - title: SwiftLecture
     url: /category/swift_lecture
+  - title: Business
+    url: /category/business
 
 category_archive:
   type: liquid
