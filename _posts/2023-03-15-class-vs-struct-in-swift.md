@@ -1,6 +1,8 @@
 ---
 title: "3.1.1 Concept Note  - \nClass vs Struct in Swift"
-Categories: swift-lecture
+categories:
+- Swift Lecture
+layout: post
 ---
 
 이번 챕터부터 보통 구조체라고 번역되는 스트럭트(Struct)를 처음 사용할 것이다. 클래스와 스트럭처는 상당히 유사하지만 가장 큰 차이점은 클래스는 레퍼런스 타입(reference type), 스트럭처는 밸류 타입(value type) 이라는 것이다.
