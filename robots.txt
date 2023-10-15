@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://claudebaek.github.io/sitemap.xml
